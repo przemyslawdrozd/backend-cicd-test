@@ -3,7 +3,7 @@ exports.handler = async (event) => {
 		statusCode: 200,
 		body: JSON.stringify(
 			{
-				message: 'Sls cicd Demo',
+				message: 'Sls cicd Demo - develop',
 				version: 'v1',
 			},
 			null,
